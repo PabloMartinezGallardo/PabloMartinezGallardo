@@ -5,7 +5,7 @@
 
 <!-- Subtítulo animado -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Estudiante+de+CFGS+Desarrollo+de+Aplicaciones+Multiplataforma;Java+%7C+Dart+%26+Flutter+%7C+Python+%7C+C%23+%7C+SQLite;Ingl%C3%A9s+B2+(Cambridge)+%7C+Enfoque+en+Arquitectura+y+POO" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Estudiante+CFGS+Desarrollo+Aplicaciones+Multiplataforma;Java+%7C+Dart+%26+Flutter+%7C+Python+%7C+C%23+%7C+SQLite;Ingl%C3%A9s+B2+(Cambridge)+%7C+Enfoque+en+Arquitectura+y+POO" alt="Typing SVG" />
 </a>
 
 <br/>

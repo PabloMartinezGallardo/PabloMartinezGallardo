@@ -1,11 +1,21 @@
 <div align="center">
 
-# ¡Hola! Soy Pablo Martínez Gallardo 👋
-### Desarrollador de Aplicaciones Multiplataforma (DAM) | Java • Python • C# • Flutter
+<!-- Banner de presentación -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=210&section=header&text=Pablo%20Mart%C3%ADnez%20Gallardo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20de%20Aplicaciones%20Multiplataforma%20(DAM)&descAlignY=60&descSize=18" width="100%" alt="Banner Pablo Martínez Gallardo" />
 
-[![Ubicación](https://img.shields.io/badge/Ubicación-Murcia_%2F_Jumilla,_España-005571?style=for-the-badge&logo=googlemaps&logoColor=white)]()
-[![Inglés](https://img.shields.io/badge/Inglés-B2_Cambridge-1F4E78?style=for-the-badge&logo=bookstack&logoColor=white)]()
-[![Estado](https://img.shields.io/badge/Estado-Abierto_a_Oportunidades_y_Prácticas-2EA44F?style=for-the-badge&logo=github&logoColor=white)](mailto:pablomarga07@gmail.com)
+<!-- Subtítulo animado / Typing SVG -->
+<a href="https://github.com/PabloMartinezGallardo">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=2563EB&center=true&vCenter=true&width=680&lines=Java+%E2%80%A2+Python+%E2%80%A2+C%23+%E2%80%A2+Dart+%26+Flutter;Programaci%C3%B3n+Orientada+a+Objetos+(POO)+y+Bases+de+Datos;Ingl%C3%A9s+B2+(Cambridge)+%7C+Murcia%2C+Espa%C3%B1a" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <a href="mailto:pablomarga07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pablomarga07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Murcia%2C%20Espa%C3%B1a-1E293B?style=for-the-badge&logo=google-maps&logoColor=white" alt="Ubicación" />
+  <img src="https://img.shields.io/badge/Ingl%C3%A9s-B2%20Cambridge-0052CC?style=for-the-badge&logo=cambridge&logoColor=white" alt="Inglés B2" />
+  <img src="https://img.shields.io/badge/Estado-Disponible%20para%20Proyectos%20%2F%20Pr%C3%A1cticas-16A34A?style=for-the-badge" alt="Disponibilidad" />
+</p>
 
 </div>
 
@@ -13,73 +23,79 @@
 
 ### 👨‍💻 Sobre mí
 
-Soy estudiante de **CFGS en Desarrollo de Aplicaciones Multiplataforma (DAM)** en el *IES Alfonso X el Sabio* (Murcia), respaldado por un **Bachillerato Científico-Tecnológico con Mención Honorífica**. Me apasiona crear software funcional, bien estructurado y escalable, aplicando principios sólidos de **Programación Orientada a Objetos (POO)** y gestión de bases de datos.
+Soy estudiante de **CFGS en Desarrollo de Aplicaciones Multiplataforma (DAM)** en el *IES Alfonso X el Sabio* (Murcia), con base en un **Bachillerato Científico-Tecnológico con Mención Honorífica**. Me apasiona diseñar y construir aplicaciones robustas, limpias y escalables, aplicando buenas prácticas de ingeniería de software y **Programación Orientada a Objetos (POO)**.
 
-* 🔭 **Actualmente:** Cursando 2º de DAM y desarrollando proyectos prácticos en Java, Dart/Flutter, Python y C#.
-* 🌍 **Comunicación Internacional:** Nivel **Inglés B2 certificado por Cambridge**, lo que me permite leer documentación técnica avanzada y colaborar eficazmente con equipos internacionales.
-* 🤝 **Mentalidad Profesional:** Me caracterizo por mi iniciativa, pensamiento analítico, humildad para aprender continuamente y una fuerte orientación al trabajo en equipo forjada tanto en el desarrollo de software como en entornos laborales reales bajo presión.
-* 🎯 **Objetivo:** Incorporarme a un equipo de desarrollo (prácticas / junior) donde aportar valor, seguir creciendo técnicamente y participar en proyectos de impacto.
+- 🔭 **Enfoque actual:** Desarrollo de aplicaciones móviles multiplataforma, sistemas de gestión empresarial y lógica de videojuegos en **Java, Dart/Flutter, Python y C#**.
+- 🌍 **Perfil internacional:** Nivel **Inglés B2 certificado por Cambridge**, capacitado para trabajar con documentación técnica en inglés y colaborar eficazmente en equipos multiculturales.
+- 🤝 **Valores profesionales:** Iniciativa propia, pensamiento analítico, aprendizaje autónomo continuo y sólida ética de trabajo en equipo adquirida tanto en entornos de desarrollo como en experiencias laborales orientadas al cliente.
+- 🎯 **Meta profesional:** Formar parte de un equipo de desarrollo de software (prácticas o posición Junior) donde aportar soluciones reales y seguir creciendo como programador.
 
 ---
 
-### 🛠️ Stack Tecnológico y Competencias
+### 🛠️ Stack Tecnológico
 
-#### Lenguajes y Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+#### Lenguajes y Desarrollo Multiplataforma
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</p>
 
 #### Bases de Datos, Arquitectura y Control de Versiones
-![Databases](https://img.shields.io/badge/Gestión_de_Bases_de_Datos-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![POO](https://img.shields.io/badge/Programación_Orientada_a_Objetos-5C2D91?style=for-the-badge&logo=codeforces&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Bases%20de%20Datos%20(SQL)-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Bases de Datos" />
+  <img src="https://img.shields.io/badge/POO%20%26%20Arquitectura-0F172A?style=for-the-badge&logo=databricks&logoColor=white" alt="POO" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-#### Soft Skills Clave
-> **Resolución de problemas** • **Trabajo en equipo** • **Pensamiento analítico** • **Aprendizaje autónomo** • **Gestión del tiempo** • **Adaptabilidad**
+#### Competencias Transversales (Soft Skills)
+> `Resolución de problemas` • `Trabajo en equipo` • `Pensamiento analítico` • `Aprendizaje autónomo` • `Gestión del tiempo` • `Adaptabilidad`
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🚀 Proyectos Destacados en GitHub
 
-Una muestra de mis repositorios públicos donde aplico arquitectura de software, lógica de negocio y desarrollo multiplataforma:
+A continuación presento una selección de mis repositorios públicos, donde pongo en práctica la arquitectura de software, el diseño orientado a objetos y el desarrollo de interfaces:
 
-| Proyecto | Tecnologías | Descripción y Enfoque Técnico | Enlace |
-| :--- | :--- | :--- | :---: |
-| **📱 Lysta** | `Dart` `Flutter` | Aplicación móvil multiplataforma diseñada para la gestión ágil de listas y organización personal. Implementa arquitectura reactiva e interfaz intuitiva. | [Ver código](https://github.com/PabloMartinezGallardo/Lysta) |
-| **🏮 App Gestión Restaurante Chino** | `Java` `POO` | Sistema de gestión empresarial enfocado en optimizar comandas, control de mesas, inventario y facturación en hostelería mediante diseño orientado a objetos. | [Ver código](https://github.com/PabloMartinezGallardo/AppGestionRestauranteChino) |
-| **🧀 Quesito Adventure** | `Java` | Videojuego 2D desarrollado desde cero en Java. Implementa bucles de juego (*game loops*), detección de colisiones, físicas y diseño de niveles estructurado. | [Ver código](https://github.com/PabloMartinezGallardo/Quesito_Adventure) |
-| **⚔️ Super Mario RPG Java** | `Java` `POO` | Recreación de mecánicas clásicas de rol (RPG) por turnos. Destaca por el uso de patrones de diseño y estructuras de datos para gestionar combates, estados e inventario. | [Ver código](https://github.com/PabloMartinezGallardo/Super_Mario_RPG_Java) |
+| Proyecto | Stack | Descripción Técnica | Repositorio |
+| :--- | :---: | :--- | :---: |
+| **📱 Lysta** | `Dart` `Flutter` | Aplicación móvil multiplataforma orientada a la gestión ágil de listas y organización diaria. Desarrollada con interfaz moderna, reactiva e intuitiva. | [Ver código](https://github.com/PabloMartinezGallardo/Lysta) |
+| **🏮 App Gestión Restaurante Chino** | `Java` `POO` | Software de gestión integral para hostelería. Permite administrar comandas, mesas, control de inventario y facturación bajo una arquitectura modular orientada a objetos. | [Ver código](https://github.com/PabloMartinezGallardo/AppGestionRestauranteChino) |
+| **🧀 Quesito Adventure** | `Java` | Videojuego 2D desarrollado íntegramente en Java. Implementa motor de renderizado, *game loop*, detección de colisiones, físicas básicas y progresión de niveles. | [Ver código](https://github.com/PabloMartinezGallardo/Quesito_Adventure) |
+| **⚔️ Super Mario RPG Java** | `Java` `POO` | Recreación de mecánicas clásicas de combate RPG por turnos. Emplea herencia, polimorfismo y gestión de estados para personajes, habilidades e inventario. | [Ver código](https://github.com/PabloMartinezGallardo/Super_Mario_RPG_Java) |
 
 ---
 
 ### 🎓 Formación Académica
 
-* **CFGS en Desarrollo de Aplicaciones Multiplataforma (DAM)** — *IES Alfonso X el Sabio (Murcia)* | `2025 - Actualidad`
-* **Bachillerato Científico-Tecnológico** — *IES Infanta Elena (Jumilla)* | `2023 - 2025` *(Mención Honorífica)*
+- **CFGS en Desarrollo de Aplicaciones Multiplataforma (DAM)** — *IES Alfonso X el Sabio (Murcia)* | `2025 - Actualidad`
+  - *Nivel 5 EQF-MEC — Especialización en desarrollo multiplataforma, acceso a datos, programación de servicios y diseño de interfaces.*
+- **Bachillerato Científico-Tecnológico** — *IES Infanta Elena (Jumilla)* | `2023 - 2025`
+  - *Calificación final: **Mención Honorífica** (Nivel 4 EQF-MEC).*
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Actividad y Métricas en GitHub
 
 <div align="center">
-
-![Estadísticas de GitHub de Pablo](https://github-readme-stats.vercel.app/api?username=PabloMartinezGallardo&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMartinezGallardo&layout=compact&theme=tokyonight&hide_border=true&locale=es)
-
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PabloMartinezGallardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de GitHub de Pablo" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMartinezGallardo&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Lenguajes más usados por Pablo" />
 </div>
 
 ---
 
-### 📫 Contacto y Disponibilidad
+### 📫 Contacto
 
-¿Buscas un desarrollador comprometido para tu equipo o tienes una oportunidad de prácticas/empleo? Estaré encantado de conversar:
+Si buscas un desarrollador comprometido, con capacidad analítica y ganas de aportar desde el primer día, no dudes en contactarme:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-pablomarga07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablomarga07@gmail.com)
+[![Email](https://img.shields.io/badge/Enviar%20Correo-pablomarga07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablomarga07@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-PabloMartinezGallardo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PabloMartinezGallardo)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
